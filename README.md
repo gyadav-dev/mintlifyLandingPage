@@ -1,5 +1,7 @@
 # Deployed Link
 
+https://gyadav-dev.github.io/mintlifyLandingPage/
+
 ## This contains the details of the sections recreated by me
 
 ### Top Navigation Bar
